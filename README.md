@@ -1,9 +1,13 @@
 # Most_Watched_Movies and TV_Shows project:-
+Most-Watched Movies and TV Shows Power BI Report Dashbord
+![PoweBI Dashbord](https://github.com/user-attachments/assets/b7709b46-2abf-4adc-a33c-df991663ed5f)
+
 Excel project: 
 ![image](https://github.com/user-attachments/assets/0c8d5ebe-f28d-4066-8304-94c552998a87)
 SQL Project:
 A Data Analysis Project Used SQL from Basic to Advanced Queries.
 ![2](https://github.com/user-attachments/assets/8588410b-2a77-4da2-8599-b37c4cba9f5e)
+
 Python Project: 
 ![image](https://github.com/user-attachments/assets/83a668a8-9d8f-46dd-8118-1af01b34f8d8)
 ![image](https://github.com/user-attachments/assets/80e51e4d-1720-419c-9501-40b9a660232a)
