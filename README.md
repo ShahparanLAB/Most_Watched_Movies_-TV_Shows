@@ -1,4 +1,11 @@
-# Most_Watched_Movies and TV_Shows project:-
+# Most_Watched_Movies and TV_Shows project_Analysis
+# Tools used 
+* Python (Pandas, Seaborn, Matplotlib)
+* Colab
+* SQL Server Management Studio
+* Excel
+* Power BI
+
 Most-Watched Movies and TV Shows Power BI Report Dashbord
 ![PoweBI Dashbord](https://github.com/user-attachments/assets/b7709b46-2abf-4adc-a33c-df991663ed5f)
 
