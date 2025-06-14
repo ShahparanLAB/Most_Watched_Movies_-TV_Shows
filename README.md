@@ -20,6 +20,22 @@ A Data Analysis Project Used SQL from Basic to Advanced Queries.
 
 ![2](https://github.com/user-attachments/assets/8588410b-2a77-4da2-8599-b37c4cba9f5e)
 
+![image](https://github.com/user-attachments/assets/d38a60b4-1978-4607-a845-851576cd1386)
+
+![image](https://github.com/user-attachments/assets/ad4b8599-1d8e-49d6-be3c-e36d7232b924)
+
+![image](https://github.com/user-attachments/assets/9e172642-140e-4e49-ae9c-a64ed81a4e51)
+
+![image](https://github.com/user-attachments/assets/788fb630-6ced-46af-b61e-29cfd9b8de11)
+
+![image](https://github.com/user-attachments/assets/3ff5f80f-65ad-4c8e-b303-184405683b67)
+
+![image](https://github.com/user-attachments/assets/3bad52c1-d06e-4805-bfee-a64c5fd295c0)
+
+![image](https://github.com/user-attachments/assets/3559037d-c007-4fe0-b630-eb783b0dc67b)
+
+
+
 Python Project: 
 
 ![image](https://github.com/user-attachments/assets/83a668a8-9d8f-46dd-8118-1af01b34f8d8)
