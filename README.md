@@ -10,7 +10,15 @@ Most-Watched Movies and TV Shows Power BI Report Dashbord
 
 ![PoweBI Dashbord](https://github.com/user-attachments/assets/b7709b46-2abf-4adc-a33c-df991663ed5f)
 
-Excel project: 
+# Excel project: 
+### Project Overview & Key Highlights
+This project is designed to analyze and present insights on movies and TV shows using SQL queries. The analysis focuses on key aspects of content performance and audience engagement. The project covers:
+•	Listing movie titles along with their corresponding genres.
+•	Calculating total watch time per genre by year to observe shifts in viewing preferences over time.
+•	Counting the number of shows released each year to highlight production trends across years.
+•	Summarizing total watch time by genre (in millions) to identify the most popular genres overall.
+•	Generating movie and TV show rankings by year to spotlight the top-performing titles annually.
+These insights provide valuable information for understanding content trends, audience choices, and strategic planning in the entertainment domain.
 
 ![image](https://github.com/user-attachments/assets/0c8d5ebe-f28d-4066-8304-94c552998a87)
 
