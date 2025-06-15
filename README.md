@@ -14,9 +14,17 @@ Excel project:
 
 ![image](https://github.com/user-attachments/assets/0c8d5ebe-f28d-4066-8304-94c552998a87)
 
-SQL Project:
+## SQL Project:
+ A Data Analysis Project Used SQL from Basic to Advanced Queries.
+### Project Overview & Key Highlights
+This project focuses on analyzing and visualizing movie and TV show data to provide insights into viewing patterns and content performance. The key analyses include:
+•	Listing movie titles along with their genre types.
+•	Calculating total watch time per genre by year, highlighting changes in audience preferences over time.
+•	Counting the number of shows released each year to examine production trends.
+•	Summarizing total watch time by genre (in millions) to identify the most-watched genres overall.
+•	Ranking movies and TV shows by year to spotlight top-performing titles annually.
+This project leverages SQL queries to extract meaningful insights from the dataset, supporting data-driven decisions for content strategy and audience engagement.
 
-A Data Analysis Project Used SQL from Basic to Advanced Queries.
 
 ![2](https://github.com/user-attachments/assets/8588410b-2a77-4da2-8599-b37c4cba9f5e)
 
