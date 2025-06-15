@@ -36,7 +36,16 @@ A Data Analysis Project Used SQL from Basic to Advanced Queries.
 
 
 
-Python Project: 
+# Python Project: 
+### Project Overview & Key Highlights
+This project focuses on visualizing and analyzing watch time data across different movie and TV show attributes. The key visualizations include:
+•	Bar Chart to compare watch time across genres or highlight top-ranked titles.
+•	Line Chart to illustrate trends in watch time over different premiere years.
+•	Pie Chart to show the proportion of total watch time contributed by each genre.
+•	Scatter Plot to explore the correlation between premiere year and watch time.
+•	Heatmap to reveal the distribution of watch time by both genre and year.
+These visualizations aim to uncover patterns, relationships, and insights from the watch time data to support better understanding and decision-making.
+
 
 ![image](https://github.com/user-attachments/assets/83a668a8-9d8f-46dd-8118-1af01b34f8d8)
 ![image](https://github.com/user-attachments/assets/80e51e4d-1720-419c-9501-40b9a660232a)
