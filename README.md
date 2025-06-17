@@ -20,7 +20,8 @@ This project is designed to analyze and present insights on movies and TV shows 
 •	Generating movie and TV show rankings by year to spotlight the top-performing titles annually.
 These insights provide valuable information for understanding content trends, audience choices, and strategic planning in the entertainment domain.
 
-![image](https://github.com/user-attachments/assets/0c8d5ebe-f28d-4066-8304-94c552998a87)
+![image](https://github.com/user-attachments/assets/846879cd-b20b-4d8d-a3fe-0f7e35c2b9d8)
+
 
 ## SQL Project:
  A Data Analysis Project Used SQL from Basic to Advanced Queries.
